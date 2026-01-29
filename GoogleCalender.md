@@ -5,7 +5,7 @@ Ikuti langkah-langkah di bawah ini untuk membuat jadwal baru:
 ### 1. Pilih Waktu
 * Buka [Google Calendar](https://calendar.google.com/).
 * Klik pada tanggal yang kamu inginkan di kalender.
-* Lalu klik tombol **"+" (Create)** di pojok kiri bawah dan pilih **Event**.
+* Lalu klik tombol **"+" (Create)** di pojok kanan bawah dan pilih **Event**.
 
 > ![](step1.png)
 
