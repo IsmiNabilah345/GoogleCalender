@@ -15,11 +15,11 @@ Ikuti langkah-langkah di bawah ini untuk membuat jadwal baru:
 * Masukkan alamat email orang yang ingin diundang pada kolom **Add guests**.
 * Masukkan semua informasi yang dibutuhkan.
 
-> ![](step2.jpeg)
+> ![](step2.png)
 
-> ![](step3.jpeg)
+> ![](step3.png)
 
 ### 3. Simpan
 * Klik tombol **Save** di bagian kanan atas.
 
-> ![](step4.jpeg)
+> ![](step4.png)
